@@ -29,6 +29,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+## My Favorite Things About CS193
+- The instructors' ages are close to the age demographic in the class
+- The instructors know how to make presentations eye catching and inviting to the audience
+- This class will be very helpful to CS beginners because we learn about many useful tips and tricks
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
